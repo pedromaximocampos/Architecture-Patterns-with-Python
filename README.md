@@ -40,3 +40,4 @@ Test-Driven Development (TDD)
 📚 Referências
 
 [Livro na Amazon](https://www.amazon.com.br/dp/1492052205?ref=ppx_yo2ov_dt_b_fed_asin_title)
+[Repositório oficial do livro](https://github.com/cosmicpython/code/branches/all)
